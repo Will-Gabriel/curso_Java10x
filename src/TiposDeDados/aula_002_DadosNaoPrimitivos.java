@@ -1,6 +1,6 @@
 package TiposDeDados;
 
-public class DadosNaoPrimitivos {
+public class aula_002_DadosNaoPrimitivos {
     public static void main(String[] args) {
         // Tudo que for digitado aqui dentro com o comando PSVM, será compilado pelo Java
 
